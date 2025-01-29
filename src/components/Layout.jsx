@@ -18,7 +18,7 @@ const Layout = () => {
       </main>
 
       <footer className="footer">
-        <p>© 2024 Le React Gourmand</p>
+        <p>© 2024 Le React Gourmand. Tous droits reservés.</p>
       </footer>
     </>
   )
